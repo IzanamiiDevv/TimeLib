@@ -12,3 +12,6 @@ Timelib.h is a C++ library designed to work with time-based operations, providin
 ## Installation
  - Install the TimeLib.h in the Repo or you can clone the repo and copy the TimeLib.h
  - To use `TimeLib.h`, simply include the header file in your C++ project.
+
+## Contribution
+All Contribution to improve the Project is Allowed.
