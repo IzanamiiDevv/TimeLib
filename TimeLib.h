@@ -76,7 +76,6 @@ namespace TimeLib {
 
 }
 
-// Implementation of setInterval method
 void TimeLib::Interval::setInterval(void(*fn)(), unsigned int ms) {
     this->fn = fn;
     this->running = true;
